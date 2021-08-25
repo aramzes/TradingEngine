@@ -324,11 +324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\TradingEngine\\LoggingCS\\LoggingCS.csproj",
-      "projectName": "TradingEngine.Logging",
-      "projectPath": "C:\\Users\\user\\Desktop\\TradingEngine\\LoggingCS\\LoggingCS.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\TradingEngine\\src\\LoggingCS\\LoggingCS.csproj",
+      "projectName": "TradingEngineServer.Logging",
+      "projectPath": "C:\\Users\\user\\Desktop\\TradingEngine\\src\\LoggingCS\\LoggingCS.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\TradingEngine\\LoggingCS\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\TradingEngine\\src\\LoggingCS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
