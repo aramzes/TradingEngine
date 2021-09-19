@@ -8,7 +8,6 @@ namespace TradingEngineServer.Orders
     public class Order : IOrderCore
     {
         private readonly IOrderCore _IOrderCore;
-        private ModifyOrder modifyOrder;
 
         public long Price { get; private set; }
         public uint InitialQuantity { get; private set; }
