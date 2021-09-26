@@ -24,7 +24,7 @@ The following steps will allow you to build and run the engine.
 
 1. Download Visual Studio 2019.
 2. Download this repository.
-3. Open TradingEngine.sln under src/TradingEngine
+3. Open TradingEngineServer.sln under src/TradingEngineServer
 4. Hit F5 to build and run the solution.
 
 ## Description
